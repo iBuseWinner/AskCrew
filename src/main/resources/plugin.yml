@@ -1,0 +1,7 @@
+name: AskCrew
+version: '${version}'
+main: ru.fennec.free.askcrew.AskCrew
+api-version: 1.20
+authors: [ BuseSo ]
+description: Plugin for chat channels users <-> staff
+website: https://spigotmc.ru/resources/156/
